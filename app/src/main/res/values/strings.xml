@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smstocontacts</string>
+    <string name="choose_contacts">Choose contacts</string>
+    <string name="send_sms">Send Sms</string>
+    <string name="send_whatsapp_sms">Send Whatsapp Sms</string>
+    <string name="send_sms_manually">Send Sms Manually</string>
+    <string name="enter_count">Enter count</string>
+</resources>
